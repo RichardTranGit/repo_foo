@@ -1,0 +1,3 @@
+def print():
+	print('branche B')
+	return 1
